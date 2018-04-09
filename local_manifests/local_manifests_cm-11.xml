@@ -62,7 +62,6 @@
   <remove-project name="CyanogenMod/android_external_aac" />
   <remove-project name="CyanogenMod/android_system_media" />
   <remove-project name="CyanogenMod/android_device_common" />
-  <remove-project name="CyanogenMod/android_packages_apps_Apollo" />
 
   <project path="bionic" name="syphyr/android_bionic" remote="ghub" revision="cm-11.0" />
   <project path="build" name="syphyr/android_build" remote="ghub" revision="cm-11.0" />
